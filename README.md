@@ -1,8 +1,1 @@
-```
-npm install
-npm run dev
-```
-
-```
-npm run deploy
-```
+##Understanding Hono.js with Mini Projects and working with cloudflare workers! 
